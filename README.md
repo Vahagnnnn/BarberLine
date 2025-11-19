@@ -16,10 +16,10 @@ TRAILER - https://drive.google.com/file/d/1h3E5wvJaE9pVSbK5mYKNiTpkMjrn7XyL/view
 
 CERTIFICATE
 
-![Main Screen](Diploma 1 degree in the nomination "Programming".jpg)
-![Main Screen](Barbers.jpg)
+![Main Screen](Diploma1degreeinthenominationProgramming.jpg)
+![Main Screen](MobiledevelopmentatJavaITSchoolSamsung.jpg)
 
 
 
 Gradle Version for me
-![image](https://github.com/user-attachments/assets/f217932d-7c23-4ed6-82eb-80943736681d)
+![Main Screen](GradleVersion.jpg)
