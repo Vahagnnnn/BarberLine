@@ -17,9 +17,9 @@ TRAILER - https://drive.google.com/file/d/1h3E5wvJaE9pVSbK5mYKNiTpkMjrn7XyL/view
 CERTIFICATE
 
 ![Main Screen](Diploma1degreeinthenominationProgramming.jpg)
-![Main Screen](MobiledevelopmentatJavaITSchoolSamsung.jpg)
+![Main Screen](MobiledevelopmentatJavaITSchoolSamsung.png)
 
 
 
 Gradle Version for me
-![Main Screen](GradleVersion.jpg)
+![Main Screen](GradleVersion.png)
