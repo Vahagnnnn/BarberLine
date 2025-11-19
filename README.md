@@ -7,20 +7,17 @@ PRESENTATION - https://www.canva.com/design/DAGnU5TKT6A/mvSVD8YdNW_jdv9J8rmkgQ/e
 
 TRAILER - https://drive.google.com/file/d/1h3E5wvJaE9pVSbK5mYKNiTpkMjrn7XyL/view?usp=sharing
 
-![Main](https://github.com/user-attachments/assets/8d242dbb-b89f-4ef3-be04-1053e58a0318)
-![Barbers](https://github.com/user-attachments/assets/5d01e5dc-0f4b-477b-b600-9799f0099886)
-![About](https://github.com/user-attachments/assets/bb92da5f-79bf-403a-8b23-9e6e88259cbe)
-![Map](https://github.com/user-attachments/assets/2f10550b-526b-461a-a0bf-c0a79e895ed4)
-![Settings](https://github.com/user-attachments/assets/65034d9b-1e0d-48f9-9711-f6668961ad3a)
+![Main Screen](Main.jpg)
+![Main Screen](Barbers.jpg)
+![Main Screen](About.jpg)
+![Main Screen](Map.jpg)
+![Main Screen](Settings.jpg)
 
 
 CERTIFICATE
 
-![Диплом 1 степени в номинации «Программирование»](https://github.com/user-attachments/assets/cba32563-b1e9-4502-b7d5-ef6fe6b7219e)
-<img width="519" height="737" alt="Мобильная разработка на Java IT Школы Samsung" src="https://github.com/user-attachments/assets/fe563cef-4f0f-4da2-8182-fe791e23c0a3" />
-
-
-
+![Main Screen](Diploma 1 degree in the nomination "Programming".jpg)
+![Main Screen](Barbers.jpg)
 
 
 
